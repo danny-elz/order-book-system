@@ -16,38 +16,6 @@ The OrderBook project is a C++ implementation of an order book system that manag
 - CMake 3.29 or higher
 - C++20 compatible compiler
 
-## Building the Project
-
-1. Clone the repository:
-    ```sh
-    git clone <repository_url>
-    cd OrderBook
-    ```
-
-2. Create a build directory and navigate to it:
-    ```sh
-    mkdir build
-    cd build
-    ```
-
-3. Run CMake to configure the project:
-    ```sh
-    cmake ..
-    ```
-
-4. Build the project:
-    ```sh
-    cmake --build .
-    ```
-
-## Usage
-
-After building the project, you can run the executable:
-
-```sh
-./OrderBook
-```
-
 ## Code Structure
 
 - `main.cpp`: Contains the main function and the implementation of the OrderBook system.
