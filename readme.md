@@ -2,7 +2,7 @@
 
 ## Overview
 
-The OrderBook project is a C++ implementation of an order book system that manages and matches buy and sell orders. It supports different order types and handles trades between matching orders.
+This project is a C++ implementation of an order book system that manages and matches buy and sell orders. It supports different order types and handles trades between matching orders.
 
 ## Features
 
